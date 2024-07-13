@@ -1,3 +1,8 @@
+/*
+Câu 2. Viết chương trình tìm các số nguyên tố có N chữ số với N nhập từ bàn phím và 2 ≤ N ≤
+10.
+*/
+
 #include <iostream>
 #include <vector>
 #include <cmath>

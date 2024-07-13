@@ -1,3 +1,8 @@
+/*
+Câu 4. Viết chương trình đếm số số nguyên tố nằm trong khoảng [A,B] với A, B nhập vào từ bàn 
+phím.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;

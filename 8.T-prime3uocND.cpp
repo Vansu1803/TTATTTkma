@@ -1,3 +1,8 @@
+/*
+Câu 8. Một số gọi là số Т-prime nếu có có đúng 3 ước nguyên dương. Viết chương trình tìm các 
+số Т-prime nhỏ hơn hoặc bằng N với N cho trước nhập từ bàn phím.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

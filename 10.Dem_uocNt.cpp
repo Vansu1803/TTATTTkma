@@ -1,3 +1,7 @@
+/*
+Câu 10. Viết chương trình đếm số ước và số ước nguyên tố của một số N nhập vào từ bàn phím.
+*/ 
+
 #include <bits/stdc++.h>
 using namespace std;
 

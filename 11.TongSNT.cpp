@@ -1,3 +1,8 @@
+/*
+Câu 11. Viết chương trình tính tổng của các số nguyên tố nhỏ hơn hoặc bằng N với N được nhập 
+từ bàn phím.
+*/
+
 #include <bits/stdc++.h>
 #include <math.h>
 
